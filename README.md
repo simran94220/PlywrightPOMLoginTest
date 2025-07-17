@@ -13,7 +13,7 @@ Install using command as npm package
 7. login to web site and enter user/pwd and click login , press record button to stop srecording
 8. copy the code and paste in your js file under tests folder
 9. execute for single browser in headed mode using command: npx playwright test --project=chromium --headed
-<img width="81" height="265" alt="image" src="https://github.com/user-attachments/assets/eeae62aa-b5ca-4254-8000-0fc1876d5bd1" />
+
 
 
 <img width="866" height="371" alt="image" src="https://github.com/user-attachments/assets/64a0339a-3c65-4364-a6b5-51cde135b2bc" />
